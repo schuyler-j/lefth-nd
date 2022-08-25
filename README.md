@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lefth-nd
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning comp sci
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on web based systems
 - 📫 How to reach me - the internet
 
 <!---
