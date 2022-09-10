@@ -16,4 +16,6 @@ jobs:
         with:
           template: terminal
           plugin_lines: yes
+          plugin_isocalendar: yes
+          plugin_traffic: yes
           token: ${{ secrets.METRICS_TOKEN }}
