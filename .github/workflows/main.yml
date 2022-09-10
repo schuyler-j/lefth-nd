@@ -15,4 +15,5 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           template: terminal
+          plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
