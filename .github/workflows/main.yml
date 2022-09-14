@@ -18,4 +18,5 @@ jobs:
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_traffic: yes
+          plugin_achievements: yes
           token: ${{ secrets.METRICS_TOKEN }}
