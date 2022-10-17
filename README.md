@@ -4,10 +4,10 @@
 <!---
 lefth-nd/lefth-nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 <img align="left" src="https://user-images.githubusercontent.com/74050386/196161416-1af32d2a-8204-4892-a8a4-0fba5bb1868e.gif" />
-<!---
+
 <div>
 <ul>
 <li> 👋 Hi, I’m @lefth-nd</li>
