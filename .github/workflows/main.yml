@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          template: markdown
+          filename: metrics.classic.svg
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_traffic: yes
