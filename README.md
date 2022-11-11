@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 <li> 📫 How to reach me - the internet</li></ul>
 </div>
 --->
-<img align="left" src="/github-metrics.svg" alt="Metrics" width="400"/>
+<img align="left" src="/metrics.classic.svg" alt="Metrics"/>
