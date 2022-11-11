@@ -20,4 +20,8 @@ jobs:
           plugin_traffic: yes
           plugin_achievements: yes
           plugin_topics: yes
+          plugin_topics_limit: 12
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          
+          
