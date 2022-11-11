@@ -24,6 +24,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_topics_mode: icons
           config_timezone: Australia/Adelaide
           token: ${{ secrets.METRICS_TOKEN }}          
           
