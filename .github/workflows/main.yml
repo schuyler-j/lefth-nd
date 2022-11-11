@@ -14,9 +14,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          template: terminal
+          template: markdown
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_traffic: yes
           plugin_achievements: yes
+          plugin_topics: yes
           token: ${{ secrets.METRICS_TOKEN }}
