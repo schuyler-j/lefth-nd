@@ -18,13 +18,14 @@ jobs:
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_traffic: yes
-          plugin_achievements: yes
           plugin_topics: yes
+          plugin_achievements: yes
           plugin_topics_limit: 12
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_topics_mode: icons
+          plugin_achievements_display: compact
           config_timezone: Australia/Adelaide
           token: ${{ secrets.METRICS_TOKEN }}          
           
