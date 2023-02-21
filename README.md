@@ -5,7 +5,7 @@
 
 
 
-
+<img align="left" src="/metrics.classic.svg" alt="Metrics"/>
 
 
 
